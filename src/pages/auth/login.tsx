@@ -93,6 +93,7 @@ const LoginPage = () => {
                                     <Link to='/register' > Đăng Ký </Link>
                                 </span>
                             </p>
+                            <p className="text text-normal">Tài khoản test: admin@gmail.com / 123456</p>
                         </Form>
                     </section>
                 </div>
